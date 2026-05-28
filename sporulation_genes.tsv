@@ -1,0 +1,82 @@
+gene	alias	accession	uniprot_id	sporulation_stage	occurs_in	gene_from_species
+spo0A		AAA22786.1	P06534	0	all	Bacillus subtilis
+sigH	spo0H	AAA22756.1	P17869	0	all	Bacillus subtilis
+spo0J		BAA05226.1	P26497	0	all	Bacillus subtilis
+obgE		QJP89512.1	A0A6M4JMW3	0	all	Bacillus subtilis
+spo0E		CAA68583.1	P05043	0	most_clostridia	Bacillus subtilis
+rapA	spo0L	CAA40007.1	Q00828	0	most_clostridia	Bacillus subtilis
+yjcM		CAB13048.1	O31635	0	most_clostridia	Bacillus subtilis
+yjbF		CAB13010.1	O31604	0	most_clostridia	Bacillus subtilis
+yyaA		CAA44406.1	P37524	0	most_clostridia	Bacillus subtilis
+spo0M		BAA32616.1	P71088	0	some_clostridia	Bacillus subtilis
+spo0F		CAA27217.1	P06628	0	some_clostridia	Bacillus subtilis
+ytxC		CAA28635.1	P06569	0	some_clostridia	Bacillus subtilis
+spoIIAA		AAA22789.1	P06569	II	all	Bacillus subtilis
+spoIIAB		AAA22790.1	P10728	II	all	Bacillus subtilis
+sigF	spoIIAC	AAA22788.1	P07860	II	all	Bacillus subtilis
+spoIID		AAA22793.1	P07372	II	all	Bacillus subtilis
+spoIIE	spoIIH	BAA05299.1	P37475	II	all	Bacillus subtilis
+spoIIGA		CAA35225.1	P13801	II	all	Bacillus subtilis
+sigE	spoIIGB	CAA25620.1	P06222	II	all	Bacillus subtilis
+spoIIM		AAA75553.1	P37873	II	all	Bacillus subtilis
+spoIIP		BAA04542.1	P37968	II	all	Bacillus subtilis
+spoIIR		CAA86103.1	P39151	II	all	Bacillus subtilis
+bofA		CAA34880.1	P24282	III-VI	most_clostridia	Bacillus subtilis
+spoIVFB		CAA42107.1	P26937	III-VI	most_clostridia	Bacillus subtilis
+spoVAEA		BAA12660.1	P40870	III-VI	most_clostridia	Bacillus subtilis
+spoVAF		BAA12661.1	P31845	III-VI	most_clostridia	Bacillus subtilis
+spoVE		CAA35783.1	P07373	III-VI	most_clostridia	Bacillus subtilis
+dpaA	spoVFA	AAA22381.1	Q04809	III-VI	most_clostridia	Bacillus subtilis
+dpaB	spoVFB	AAA22382.1	Q04810	III-VI	most_clostridia	Bacillus subtilis
+ald	spoVN	AAA16038.1	Q08352	III-VI	most_clostridia	Bacillus subtilis
+spoVR		AAA22811.1	P37875	III-VI	most_clostridia	Bacillus subtilis
+sspA		AAA22833.1	P04831	III-VI	most_clostridia	Bacillus subtilis
+ydcC		BAA19300.1	P96619	III-VI	most_clostridia	Bacillus subtilis
+yhbH		CAB12726.1	P45742	III-VI	most_clostridia	Bacillus subtilis
+yqfU		BAA12498.1	P54478	III-VI	most_clostridia	Bacillus subtilis
+ytrH		CAX52677.1	C0H3P8	III-VI	most_clostridia	Bacillus subtilis
+yunB		CAB15225.1	O32131	III-VI	most_clostridia	Bacillus subtilis
+spoVAA		BAA12656.1	P40866	III-VI	some_clostridia	Bacillus subtilis
+spoVAB		BAA12657.1	P40867	III-VI	some_clostridia	Bacillus subtilis
+yfhM		BAA24479.1	O31581	III-VI	some_clostridia	Bacillus subtilis
+ykuD		CAA10867.1	O34816	III-VI	some_clostridia	Bacillus subtilis
+ypqA		AAB38466.1	P50836	III-VI	some_clostridia	Bacillus subtilis
+yqfS		BAA12496.1	P54476	III-VI	some_clostridia	Bacillus subtilis
+ytrI		AAC00404.1	O34460	III-VI	some_clostridia	Bacillus subtilis
+spoIVA		AAA22802.1	P35149	spore_coat	all	Bacillus subtilis
+alr	yncD	AAB41097.1	P94494	spore_coat	all	Bacillus subtilis
+spoVM		AAC36809.1	P37817	spore_coat	most_clostridia	Bacillus subtilis
+cotJC		AAB17590.1	Q45538	spore_coat	most_clostridia	Bacillus subtilis
+cotF		AAA22813.1	P23261	spore_coat	most_clostridia	Bacillus subtilis
+lipC	ycsK	BAA07363.1	P42969	spore_coat	most_clostridia	Bacillus subtilis
+yaaH		BAA05252.1	P37531	spore_coat	most_clostridia	Bacillus subtilis
+yabG		BAA05278.1	P37548	spore_coat	most_clostridia	Bacillus subtilis
+ydhD		BAA19695.1	O05495	spore_coat	most_clostridia	Bacillus subtilis
+yhaX		CAA74455.1	O07539	spore_coat	most_clostridia	Bacillus subtilis
+yhbA		CAB07527.1	P97030	spore_coat	most_clostridia	Bacillus subtilis
+yhbB		CAB07515.1	O31589	spore_coat	most_clostridia	Bacillus subtilis
+yhcN		CAA65698.1	P54598	spore_coat	most_clostridia	Bacillus subtilis
+yhcQ		CAA65701.1	P54601	spore_coat	most_clostridia	Bacillus subtilis
+yhjR		CAA74480.1	O07572	spore_coat	most_clostridia	Bacillus subtilis
+yjqC		AAB87517.1	O34423	spore_coat	most_clostridia	Bacillus subtilis
+cotA		AAB62305.1	P07788	spore_coat	some_clostridia	Bacillus subtilis
+cotC		CAA29167.1	P07790	spore_coat	some_clostridia	Bacillus subtilis
+cotH		CAA66988.1	Q45535	spore_coat	some_clostridia	Bacillus subtilis
+cotI		AAC00364.1	O34656	spore_coat	some_clostridia	Bacillus subtilis
+cotJA		AAB17588.1	Q45536	spore_coat	some_clostridia	Bacillus subtilis
+cotJB		AAB17589.1	Q45537	spore_coat	some_clostridia	Bacillus subtilis
+cotM		AAC44989.1	Q45058	spore_coat	some_clostridia	Bacillus subtilis
+cotP		BAA19388.1	P96698	spore_coat	some_clostridia	Bacillus subtilis
+cotS		BAA06634.1	P46914	spore_coat	some_clostridia	Bacillus subtilis
+cotU		QJP88268.1	A0A6M4JGP6	spore_coat	some_clostridia	Bacillus subtilis
+tgl		CAB07928.1	P40746	spore_coat	some_clostridia	Bacillus subtilis
+yisY		CAA70654.1	O06734	spore_coat	some_clostridia	Bacillus subtilis
+yknT		AAB49968.1	O31700	spore_coat	some_clostridia	Bacillus subtilis
+gpr		AAA22500.1	P22322	germination	all	Bacillus subtilis
+lgt	gerF	AAD09501.1	O34752	germination	all	Bacillus subtilis
+gerA		AAU19577.1	Q63FP2	germination	most_clostridia	Bacillus cereus
+gerB		AAU19578.1	Q63FP4	germination	most_clostridia	Bacillus cereus
+gerC		PYY25527.1	A0AAN2TST8	germination	most_clostridia	Paenibacillus illinoisensis
+gerM		CAA99553.1	P39072	germination	most_clostridia	Bacillus subtilis
+ypeB		AAC83958.1	P38490	germination	most_clostridia	Bacillus subtilis
+ytgP		AAC00276.1	O34674	germination	most_clostridia	Bacillus subtilis
