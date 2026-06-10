@@ -23,3 +23,12 @@ For each gene found this way, the UniProt ID was saved in the column `uniprot_id
 and the respective coding sequence accession ID was saved in `accession`.
 These may be used to download the protein and gene sequences from UniProt
 or GenBank using a script.
+
+## Download script
+
+This project has a script to automatically download the sequences referred to
+in `sporulation_genes.tsv` from UniProt and ENA:
+
+```bash
+bash scripts/download_genomes.sh
+```
