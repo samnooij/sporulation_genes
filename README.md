@@ -2,8 +2,11 @@
 
 Sporulation genes listed in the file `sporulation_genes.tsv` are
 the genes identified by
-[Galperin et al., 2012](https://doi.org/10.1111/j.1462-2920.2012.02841.x).
-See their [table 3](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2012.02841.x#t3).
+[Galperin et al., 2012](https://doi.org/10.1111/j.1462-2920.2012.02841.x)
+and supplemented with
+[Galperin et al., 2022](https://doi.org/10.1128/jb.00079-22).
+See their 2012 [table 3](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2012.02841.x#t3),
+and 2022 [table 1](https://journals.asm.org/doi/10.1128/jb.00079-22#T1).
 
 Next, their sequences were looked up online in UniProt, using for example
 https://www.uniprot.org/uniprotkb?query=(gene%3Aspo0a)+AND+(organism_id%3A224308)
