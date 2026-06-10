@@ -32,3 +32,7 @@ in `sporulation_genes.tsv` from UniProt and ENA:
 ```bash
 bash scripts/download_genomes.sh
 ```
+
+## Licence
+
+This project is licensed under the terms of the [New BSD licence](LICENSE).
